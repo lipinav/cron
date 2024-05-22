@@ -1,3 +1,3 @@
-module github.com/lpongetti/cron/v3
+module github.com/lipinav/cron/v3
 
 go 1.12
